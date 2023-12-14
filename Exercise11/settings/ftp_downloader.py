@@ -1,8 +1,8 @@
 """"
 FTP file downloader
 Tested with Python >=3.6
-By: JOR
-    v0.1    20AUG20 
+By: NM
+    v0.1    
 """
 import ftplib
 import settings.ftp as settings
