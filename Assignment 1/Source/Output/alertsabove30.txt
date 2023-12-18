@@ -1,0 +1,12 @@
+Sensor ID: 2, Timestamp: 2023-11-18 22:28:51, Temperature: 39
+Sensor ID: 1, Timestamp: 2023-11-18 22:29:14, Temperature: 39
+Sensor ID: 2, Timestamp: 2023-11-18 22:29:21, Temperature: 39
+Sensor ID: 2, Timestamp: 2023-11-18 22:29:31, Temperature: 32
+Sensor ID: 3, Timestamp: 2023-11-18 22:30:10, Temperature: 33
+Sensor ID: 3, Timestamp: 2023-11-18 22:33:55, Temperature: 36
+Sensor ID: 3, Timestamp: 2023-11-18 22:34:15, Temperature: 33
+Sensor ID: 2, Timestamp: 2023-11-18 22:34:33, Temperature: 37
+Sensor ID: 2, Timestamp: 2023-11-18 22:34:43, Temperature: 35
+Sensor ID: 2, Timestamp: 2023-11-18 22:36:17, Temperature: 34
+Sensor ID: 2, Timestamp: 2023-11-18 23:52:51, Temperature: 37
+Sensor ID: 1, Timestamp: 2023-11-18 23:53:11, Temperature: 35
