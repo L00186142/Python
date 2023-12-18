@@ -1,3 +1,9 @@
+'''
+Script: ftpget2.py
+By: NM
+Purpose: File Transfer Protocol
+Date: 26OCT23
+'''
 import ftplib
 
 FTP = {

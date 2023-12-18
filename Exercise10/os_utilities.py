@@ -1,9 +1,9 @@
-""""
-OS utilities, forked from the Comm module of SD-Node, written c. 2017
-Tested with Python >=3.6
-By: JOR
-    v0.1    26AUG21     
-"""
+'''
+Script: os_utilities.py
+By: NM
+Purpose: OS utilities, forked from the Comm module of SD-Node, written c. 2017
+Date: 26NOV23
+'''
 import platform
 import psutil 
 

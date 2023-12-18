@@ -1,12 +1,9 @@
-""""
-Main.py
-
-Tested with Python >=3.6
-
-By: JOR
-    v0.1    26AUG21     
-
-"""
+'''
+Script: main.py
+By: NM
+Purpose: Writing a loop to handle errors. 
+Date: 26NOV23
+'''
 from file_utilities import path_name, log_file_name
 from os_utilities import detect_os, cpu_load
 from time import sleep

@@ -2,7 +2,7 @@
 Script: oo2.py
 By: NM
 Purpose: Simple Class 
-Date: 25CT23
+Date: 25OCT23
 '''
 
 class MyTemplate():

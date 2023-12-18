@@ -1,3 +1,9 @@
+'''
+Script: people.py
+By: NM
+Purpose: In any complex application, create a base class which will never be instantiated.
+Date: 27OCT23
+'''
 class People():
     # Constructor, called whenever an instance of the class is created.
     def __init__(self) -> None:

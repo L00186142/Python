@@ -2,7 +2,7 @@
 Script: device.py
 By: NM
 Purpose: In any complex application, create a base class which will never be instantiated.
-Date: 26CT23
+Date: 26OCT23
 '''
 # In any complex application, create a base class which will never be instantiated.
 class Device():

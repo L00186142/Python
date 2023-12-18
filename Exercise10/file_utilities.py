@@ -1,9 +1,9 @@
-""""
-File utilities, forked from the Comm module of SD-Node, written c. 2017
-Tested with Python >=3.6
-By: JOR
-    v0.1    26AUG21     
-"""
+'''
+Script: file_utilities.py
+By: NM
+Purpose: File utilities, forked from the Comm module of SD-Node, written c. 2017
+Date: 26NOV23
+'''
 
 from datetime import datetime as dt
 import sys, csv

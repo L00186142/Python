@@ -2,7 +2,7 @@
 Script: oo1.py
 By: NM
 Purpose: Simple Class by JOR, by convention, use camel case to name classes
-Date: 25CT23
+Date: 25OCT23
 '''
 
 # Create a class 

@@ -2,7 +2,7 @@
 Script: main.py
 By: NM
 Purpose: Main class to run the devices with the specified imports
-Date: 26CT23
+Date: 26OCT23
 '''
 from devices import Firewall, Switch, LoadBalancer
 

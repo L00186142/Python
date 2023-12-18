@@ -1,4 +1,9 @@
-# pylint2.py
+'''
+Script: plint2.py
+By: NM
+Purpose: Pylint Tests.
+Date: 12DEC23
+''' 
 
 # Define constants with meaningful names in uppercase (PEP 8 naming convention).
 A = 1
