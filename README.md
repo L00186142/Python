@@ -1,6 +1,12 @@
 # Exercises
 Python Exercises for the Code of Infrastructure Module. This set of Exercises range from topics building the fundamentals of Python. The exercise are weekly, with more information and examples to give a better understanding.
 
+## Table of Contents
+
+1. [List of Exercises](#list-of-exercises)
+2. [Assignment](#assignment)
+
+
 ## List of Exercises:
 
 1. Exercise 1: Learning the Basics
@@ -30,4 +36,11 @@ Python Exercises for the Code of Infrastructure Module. This set of Exercises ra
 
 ## Assignment
 ### Assignment 1
-Bringing together all skills learnt from the Exercises to complete Assignment 1. 
+Bringing together all skills learnt from the Exercises to complete assignment 1. The assignment is a project that monitors the temperature, ID and timestamp of multiple sensors (Clients) then it sends packets back to the user (Server). Started with stating the Server IP address and port and client IP address. From there we created a UDP server that was listening for incoming packets from clients. Then created one UDP client to test that the client could send a packet and the server could receive one aswell. Started small by sending and receiving a message so that I knew the connection would work then built from there. 
+
+### How to Run
+There is a more detailed how to run in the howToRun.md inside the Documentation folder inside the Assignment 1 folder but for now, in the directory of Source folder.
+
+```python
+python main.py
+```
